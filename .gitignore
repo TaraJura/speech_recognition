@@ -1,1 +1,6 @@
-/myenv
+/myenvmyenv/
+*.pyc
+__pycache__/
+myenv/
+*.pyc
+__pycache__/
